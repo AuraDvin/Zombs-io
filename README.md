@@ -1,5 +1,5 @@
 # Zombs.io with HTML5 CANVAS & JS
-Game for a school project about canvas in html
+Game for a school project about canvas in html, written with vanilla JavaScript.
 # Features:
 - 8-directional 2d movement
 - Custom username and player color
@@ -7,3 +7,4 @@ Game for a school project about canvas in html
 - Enemies do not overlap and follow the player
 - Player can shoot enemeis to eliminate them
 - Game can be paused and sound can be muted.
+
